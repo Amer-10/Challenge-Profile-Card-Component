@@ -85,12 +85,12 @@
         }
     }
     .attribution {
-        color: white;
+        color: black;
         margin-top: 10px;
         font-size: 17px;
     }
     .attribution a{
-        color: black;
+        color: white;
         text-decoration: none;
         font-weight: bold;
     }
