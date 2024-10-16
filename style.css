@@ -10,8 +10,8 @@
         align-items: center;
         background-color: hsl(185, 75%, 39%)!important;
         background: 
-        url('images/bg-pattern-top.svg') no-repeat left top, 
-        url('images/bg-pattern-bottom.svg') no-repeat right bottom; 
+        url('bg-pattern-top.svg') no-repeat left top, 
+        url('bg-pattern-bottom.svg') no-repeat right bottom; 
         background-size: 200px 200px, 200px 200px; 
     }
         
